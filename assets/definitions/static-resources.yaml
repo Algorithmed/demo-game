@@ -1,0 +1,10 @@
+animations:
+  romb:
+    frequency: 2.0
+  circle-and-romb:
+    frequency: 1.3
+tiles:
+  romb:
+    animation: romb
+  romb-with-circle:
+    animation: circle-and-romb

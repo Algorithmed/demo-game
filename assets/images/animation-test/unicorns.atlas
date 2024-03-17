@@ -1,0 +1,19 @@
+unicorns.png
+	size: 1024, 128
+	repeat: none
+circle-and-romb
+	bounds: 512, 2, 100, 100
+circle-and-romb
+	bounds: 104, 2, 100, 100
+circle-and-romb
+	bounds: 716, 2, 100, 100
+circle-and-romb
+	bounds: 308, 2, 100, 100
+romb
+	bounds: 410, 2, 100, 100
+romb
+	bounds: 2, 2, 100, 100
+romb
+	bounds: 614, 2, 100, 100
+romb
+	bounds: 206, 2, 100, 100
